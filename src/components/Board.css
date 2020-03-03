@@ -1,0 +1,9 @@
+.board-row {
+    display: flex;
+    text-align: center;
+}
+
+.status {
+    position: absolute;
+    top: 5px;
+}
